@@ -15,6 +15,8 @@ Library Management Systems streamline library services, save time, and enhance t
 
 The system consists of the following components:
 
+![My Image](images/System.png "Illustration of the system")
+
 - **Client:** Used by a library member to access the registration system. Encrypts the login information.
 - **Main Server (`serverM`):** Verifies the identity of members and coordinates with backend servers.
 - **Department Servers (Science (`serverS`), Literature (`serverL`), History (`serverH`)):** Store the information of books offered by each department.
