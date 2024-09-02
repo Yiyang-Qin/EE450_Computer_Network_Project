@@ -72,6 +72,7 @@ The system consists of the following components:
 ## Port Number Allocation
 
 The specified port numbers for each server and client are outlined in the .pdf file guidelines.
+![My Image](images/Port.png "Static and Dynamic assignments for TCP and UDP ports.")
 
 ## On-Screen Messages
 
