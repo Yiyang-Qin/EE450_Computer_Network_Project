@@ -1,4 +1,4 @@
-# EE450_Computer_Network_Project
+### EE450 Computer Network Project
 
 # Library Management System - UNIX Socket Programming Project
 
